@@ -1,1 +1,1 @@
-I have created a simple 3 reel game and calculated the RTP and added python code to do simulations payoff and excel summries. Thank you for reading! 
+I have created a simple 3 reel game and calculated the RTP and added python code to do simulations payoff and excel summries. There are also a trigger for a bonus round , to make the player stay more at the game. Thank you for reading! 
